@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tematis.Resto.Web", "Tematis.Resto.Web\Tematis.Resto.Web.csproj", "{C766631A-751B-4B83-B7E0-3AA5390DD8C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tematis.Resto.Domain", "Tematis.Resto.Domain\Tematis.Resto.Domain.csproj", "{BB18731D-C792-41E0-AD4C-A1A699AE097F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,14 @@ Global
 		{C766631A-751B-4B83-B7E0-3AA5390DD8C9}.Production|Any CPU.Build.0 = Production|Any CPU
 		{C766631A-751B-4B83-B7E0-3AA5390DD8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C766631A-751B-4B83-B7E0-3AA5390DD8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB18731D-C792-41E0-AD4C-A1A699AE097F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB18731D-C792-41E0-AD4C-A1A699AE097F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB18731D-C792-41E0-AD4C-A1A699AE097F}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB18731D-C792-41E0-AD4C-A1A699AE097F}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{BB18731D-C792-41E0-AD4C-A1A699AE097F}.Production|Any CPU.ActiveCfg = Release|Any CPU
+		{BB18731D-C792-41E0-AD4C-A1A699AE097F}.Production|Any CPU.Build.0 = Release|Any CPU
+		{BB18731D-C792-41E0-AD4C-A1A699AE097F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB18731D-C792-41E0-AD4C-A1A699AE097F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
