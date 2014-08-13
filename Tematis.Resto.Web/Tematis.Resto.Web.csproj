@@ -229,7 +229,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="posanywhere.azurewebsites.net.PublishSettings" />
-    <None Include="Properties\PublishProfiles\posanywhere - FTP %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\development_ftp.pubxml" />
     <None Include="Properties\PublishProfiles\posanywhere - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\development.pubxml" />
     <None Include="Properties\PublishProfiles\posanywhere - Web Deploy.pubxml">
